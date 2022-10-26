@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarah-Rz
 - 👀 I’m interested in Web Development.
-- 🌱 I just finished the JavaScript Algorithms and Data Structures in Free Code Camp, and currently learning Front End Development Libraries.
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
