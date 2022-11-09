@@ -7,5 +7,4 @@
 - rezaeisara1994@yahoo.com
 - And here's my LinkedIn:
 - https://www.linkedin.com/in/sara-rezaei-73301b23a/
-- I will be glad to contact me!
 
