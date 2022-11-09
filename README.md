@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Sarah-Rz
-- 👀 I’m interested in Web Development.
-- 🌱 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi! I'm Sara. A Front-End Developer. I started programming with Scrimba in January 2022 and then Free Code Camp. 
+- Most of my projects are built with JavaScript and React, I used Bootstrap & Materialize for the styling.
+- 👀 I'm interested in Web Development & UI/UX.
+- 💞️ I'm looking to collaborate with a great Team!
+- 📫 Here is my email:
+- rezaeisara1994@yahoo.com
+I will be glad to contact me.
 
-<!---
-Sarah-Rz/Sarah-Rz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
