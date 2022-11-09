@@ -3,9 +3,9 @@
 - Most of my projects are built with JavaScript and React, I used Bootstrap & Materialize for the styling.
 - 👀 I'm interested in Web Development & UI/UX.
 - 💞️ I'm looking to collaborate with a great Team!
-- 📫 Here is my Email:
+- 📫 Here's my Email:
 - rezaeisara1994@yahoo.com
-- and here is my LinkedIn:
+- And here's my LinkedIn:
 - https://www.linkedin.com/in/sara-rezaei-73301b23a/
 - I will be glad to contact me!
 
