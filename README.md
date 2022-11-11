@@ -5,7 +5,7 @@
 - 👀 Interested in Web Development & UI/UX.
 - 💞️ I'm looking to collaborate with a great Team!
 - 📫 Here's my Email:
-- rezaeisara1994@yahoo.com
+- rezaiesara1994@gmail.com
 - And here's my LinkedIn:
 - https://www.linkedin.com/in/sara-rezaei-73301b23a/
 
