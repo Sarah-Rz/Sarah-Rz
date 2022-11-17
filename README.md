@@ -2,10 +2,10 @@
 - I'm interested in Front-End development. I started coding with Scrimba in January 2022 and then Free Code Camp. 
 - Most of my Projects are built with JavaScript and React JSX, I used Bootstrap & Materialize for the styling.
 - Familiar with jQuery, SASS, Node.js, Redux & Git.
-- 👀 Interested in Web Development & UI/UX.
+- 👀 Interested in UI/UX.
 - 💞️ I'm looking to collaborate with a great Team!
-- 📫 Here's my Email:
+- 📫 Email:
 - rezaiesara1994@gmail.com
-- And here's my LinkedIn:
+- LinkedIn:
 - https://www.linkedin.com/in/sara-rezaei-73301b23a/
 
