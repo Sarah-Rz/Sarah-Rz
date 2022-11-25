@@ -1,6 +1,6 @@
 - 👋 Hey! My name is Sara.
 - I'm interested in Front-End development. I started coding with Scrimba in January 2022 and then Free Code Camp. 
-- Most of my Projects are built with JavaScript and React JSX, I used Bootstrap & Materialize for the styling.
+- Most of my Projects are built with JavaScript and React, I used Bootstrap & Materialize for the styling.
 - Familiar with jQuery, SASS, Node.js, Redux & Git.
 - 👀 Interested in UI/UX.
 - 💞️ I'm looking to collaborate with a great Team!
