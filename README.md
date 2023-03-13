@@ -1,7 +1,9 @@
-- 👋 Hey! My name is Sara.
-- I'm interested in Front-End development. I started coding with Scrimba in January 2022 and then Free Code Camp. 
-- Most of my Projects are built with JavaScript and React, I used Bootstrap & Materialize for the styling.
-- Familiar with jQuery, SASS, Node.js, Redux & Git.
+- 👋 Hallo! Mein Name ist Sara.
+-  Ich interessiere mich für die Frontend Entwicklung. Zuerst habe ich mit Scrimba (eine Plattform für Webentwickler) und dann mit Free Code Camp (andere Plattform) im      Januar 2022 mit dem Programmieren angefangen.
+-  Einige Projekte, die ich hergestellt habe, waren mit HTML, JavaScript und React. Ich verwendete CSS, Bootstrap, Materialize und Chakra UI für das Design.
+-  Nach 10 Monaten konnte ich meine erste Stelle als Praktikantin für Frontend Entwicklung bei einer digital-Marketing-Firma antreten!
+-  zu meinen Aufgaben gehörte es:  
+-  Dynamisierung der Website (für die Klinik) mit Jinja (Logik), fertigt die Seite (Register/Login, Blogs, Profile, Onlinereservierung, Galerie,...), Arbeit mit CSS,        Bootstrap, Fancybox,... , Anwendung von Lazy Load und SEO, Arbeit mit API, WinSCP, Verwendung von Javascript für Datum und Search Bar, ... .
 - 👀 Interested in UI/UX.
 - 💞️ I'm looking to collaborate with a great Team!
 - 📫 Email:
