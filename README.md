@@ -4,8 +4,8 @@
 -  Nach 10 Monaten konnte ich meine erste Stelle als Praktikantin für Frontend Entwicklung bei einer digital-Marketing-Firma antreten!
 -  Wir waren einen Startup-Team von 12 Personen, darunter Grafikdesigner, Softwareexperten, UI/UX-Designer, Backend- und Frontend-Programmierer, die nach der Scrum-  	    Methode arbeiteten. 
 -  zu meinen Aufgaben gehörte es:  
--  Dynamisierung der Webseite (für die Klinik) mit Jinja (Logik), herstellt die Seite (Register/Login, Blogs, Profile, Onlinereservierung, Galerie,...), Arbeit mit CSS,        Bootstrap, Fancybox,..., Anwendung von Lazy Load und SEO, Arbeit mit API, WinSCP, Verwendung von Javascript für Datum und Search Bar, uzw.
--  Ich habe dort viele Erfahrungen im IT-Bereich gesammelt und jetzt will ich eine Ausbildung als Anwendungsentwicklerin in Deutschland machen!
+-  Dynamisierung der Webseite (für die Klinik) mit Jinja (Logik), herstellt die Seite (Register/Login, Blogs, Profile, Onlinereservierung, Galerie,...), lösung der           Probleme, Arbeit mit CSS, Bootstrap, Fancybox,..., Anwendung von Lozad und SEO, Arbeit mit API, WinSCP, wenige Erfahrung mit Javascript für einige Teil, uzw.
+-  Und jetzt will ich eine Ausbildung als Anwendungsentwicklerin in Deutschland machen!
 - 📫 Email:
 - rezaiesara1994@gmail.com
 - LinkedIn:
