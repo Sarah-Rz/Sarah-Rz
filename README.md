@@ -1,5 +1,5 @@
 - 👋 Hallo! Mein Name ist Sara.
--  Ich interessiere mich für Programmieren. Zunächst habe ich mit Scrimba (eine Plattform für Webentwickler) und dann mit Free Code Camp (andere Plattform) im Januar 2022 mit dem Programmieren angefangen.
+-  Ich interessiere mich für die Programmierung. Zunächst habe ich mit Scrimba (eine Plattform für Webentwickler) und dann mit Free Code Camp (andere Plattform) im Januar 2022 mit dem Programmieren angefangen.
 -  Einige Projekte, die ich erstellt habe, waren mit HTML, JavaScript und React. Ich verwendete CSS, Bootstrap, Materialize und Chakra UI für das Design.
 -  Nach 11 Monaten konnte ich meine erste Stelle als Praktikantin für Frontend Entwicklung bei einer digital-Marketing-Firma antreten!
 -  Wir waren einen Startup-Team von 12 Personen, darunter Grafikdesigner, Softwareexperten, UI/UX-Designer, Backend- und Frontend-Programmierer, die nach der Scrum-  	    Methode arbeiteten. 
