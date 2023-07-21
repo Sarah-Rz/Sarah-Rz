@@ -5,7 +5,7 @@
 -  Wir waren einen Startup-Team von 12 Personen, darunter Grafikdesigner, Softwareexperten, UI/UX-Designer, Backend- und Frontend-Programmierer, die nach der Scrum-  	    Methode arbeiteten. 
 -  zu meinen Aufgaben gehörte es:  
 -  Dynamisierung der Webseite (Online-Shop & Online-Website für Arzttermine) mit Jinja, erstellt die Seite (Register/Login, Blogs, Profile, Onlinereservierung, Galerie,...), lösung der Probleme, Arbeit mit CSS, Bootstrap, Fancybox,..., Anwendung von Lozad und SEO, Arbeit mit API, WinSCP, wenige Erfahrung mit Javascript für einige Teil, usw.
- 🔴 Momentan widme ich mich einem Fullstack-Projekt (Online-Shop) unter Verwendung von React, Chakra, Redux für das Frontend sowie MongoDB, API für das Backend.
+- 🔴 Momentan widme ich mich einem Fullstack-Projekt (Online-Shop) unter Verwendung von React, Chakra, Redux für das Frontend sowie MongoDB, API für das Backend.
 -  Außerdem bin ich auf der Suche nach einem Ausbildungsplatz als Anwendungsentwicklerin in Deutschland.
 -  Begleiten Sie mich auf dieser wunderbaren Expedition!
 - 📫 Email:
