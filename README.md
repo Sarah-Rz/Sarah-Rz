@@ -11,5 +11,5 @@
 - 📫 Email:
 - rezaiesara1994@gmail.com
 - LinkedIn:
-- https://www.linkedin.com/in/sara-rezaei-73301b23a/
+- https://www.linkedin.com/in/sara-rz/
 
