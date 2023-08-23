@@ -1,5 +1,5 @@
 My name is Sara. I am passionate about Science, discovering all the Mysteries in the World, and becoming a useful Human Being. 
- My personal skills: Accuracy, logical thinking, patience, Commitment to learning, and interest in computer science.
+My personal skills: Accuracy, logical thinking, patience, Commitment to learning, and interest in computer science.
 
 I studied Biology- genetics at IAU, Medical Branch in Tehran. 
 Since I'm interested in different cultures and other languages as well, I learned German during my Studies. 
