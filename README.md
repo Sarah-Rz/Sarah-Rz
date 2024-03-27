@@ -13,7 +13,7 @@ After finishing my Internship as a Frontend Developer, I took an online course "
 
 It took me a long way to finally find my dream job. When I am programming to solve a problem, it is like a goal that I want to achieve. At the end of the day, when I have solved the task, it's like I achieve my Goal every day! That's what programming means to me.
 
-And now I'm looking for training as a web application developer in Germany to bring my programming skills to a higher level!
+And now I'm looking for training as a developer in Germany to bring my programming skills to a higher level!
 Join me on this wonderful Expedition!😉
 
 - 📫 Email:
